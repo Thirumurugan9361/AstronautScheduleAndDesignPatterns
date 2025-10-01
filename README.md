@@ -31,7 +31,7 @@ The project demonstrates **Object-Oriented Programming (OOP)**, **Design Pattern
 > Each pattern has its own folder containing:
 > `Main` class → Entry point
 > `Classes` → Implementation of the pattern
-> **README.md** (optional) → Overview, Problem, Solution, Example, Output
+> **README.md**  → Overview, Problem, Solution, Example, Output
 
 ---
 
